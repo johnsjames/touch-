@@ -1,2 +1,2 @@
 # touch-
-通过swiper框架完成touch效果
+demo 效果
